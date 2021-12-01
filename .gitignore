@@ -4,3 +4,4 @@ dmp
 .hpc/
 *.tix
 stack.yaml.lock
+result
